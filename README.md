@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi 👋, I'm Praveen Uppari 
 
-Hi 👋, I'm Praveen Uppari  
-Coding Enthusiast | Debugging Diver | Exploring the Depths of Code 🔍
+ Coding Enthusiast 
 
 ### 🔭 I’m currently working at BeingZero
 
@@ -11,15 +10,12 @@ Coding Enthusiast | Debugging Diver | Exploring the Depths of Code 🔍
 
 ### Connect with me:
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/praveen-uppari-3b3411249/)
-[![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/__datta3__/)
+[![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/__praveen_uppari_27/)
 [![Codechef](https://img.icons8.com/fluent/48/000000/codechef.png)](https://www.codechef.com/users/praveenuppari)
-[![Hackerrank](https://img.icons8.com/fluent/48/000000/hackerrank.png)](https://www.hackerrank.com/rukmaiwaddattat1?hr_r=1)
-[![Codeforces](https://img.icons8.com/fluent/48/000000/codeforces.png)](https://codeforces.com/profile/A.Hrishikesh)
+[![Codeforces](https://img.icons8.com/fluent/48/000000/codeforces.png)]((https://codeforces.com/profile/Praveenuppari27))
 [![Leetcode](https://img.icons8.com/fluent/48/000000/leetcode.png)](https://leetcode.com/u/PRAVEENUPPARI_27/)
-[![GeeksforGeeks](https://img.icons8.com/color/48/000000/geeksforgeeks.png)](https://auth.geeksforgeeks.org/user/rukmaiwadizoi)
 
 ### Languages and Tools:
-[![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)](https://getbootstrap.com/)
 [![C](https://img.icons8.com/color/48/000000/c-programming.png)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![CSS3](https://img.icons8.com/color/48/000000/css3.png)](https://www.w3schools.com/css/)
 [![HTML5](https://img.icons8.com/color/48/000000/html-5.png)](https://www.w3schools.com/html/)
