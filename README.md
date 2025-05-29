@@ -13,8 +13,7 @@
 [![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/__praveen_uppari_27/)  
 [![CodeChef](https://img.icons8.com/fluent/48/000000/codechef.png)](https://www.codechef.com/users/praveenuppari)  
 [![Codeforces](https://img.icons8.com/color/48/000000/codeforces.png)](https://codeforces.com/profile/Praveenuppari27)  
-[![LeetCode](https://github.com/user-attachments/assets/954f4327-7f25-4aca-8292-54c00e2d6125)
-](https://leetcode.com/u/PRAVEENUPPARI_27/)
+[![LeetCode]![image](https://github.com/user-attachments/assets/1e7145ce-90ba-48e6-8465-d660edf4a0e7)](https://leetcode.com/u/PRAVEENUPPARI_27/)
 
 
 
